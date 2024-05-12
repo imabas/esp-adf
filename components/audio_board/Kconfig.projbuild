@@ -35,6 +35,8 @@ config ESP32_C3_LYRA_V2_BOARD
     bool "ESP32-C3-Lyra-v2.0"
 config ESP32_C6_DEVKIT_BOARD
     bool "ESP32-C6-DEVKIT"
+config ESP_AI_THINKER_AUDIO_KIT
+    bool "ESP32-A1S Audio Kit (V2.2)"
 
 endchoice
 
